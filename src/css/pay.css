@@ -160,8 +160,10 @@
   margin-top: 1.5cm;
   margin-left: -2cm;
   /* margin-right: 5cm; */
-  border-radius: 0.6cm;
+  border-radius: 50px;
 }
+
+
 .cw {
   height: 1cm;
   width: 0.6cm;

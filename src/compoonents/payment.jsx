@@ -43,6 +43,7 @@ function Pay() {
         <input type="checkbox" className="cp" />
         <img src="/image/paypal.png" alt="" className=" tick paypal" />
       </div>
+
       <h1 className="payhead2">Payment Details</h1>
       <div className="form">
         <form action="" className="pay input">

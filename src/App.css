@@ -21,7 +21,7 @@
   width: 100%;
   height: 3cm;
   background-color: rgb(254, 250, 250);
-  border: solid 1px;
+  border: solid 1px #eae5e5;
   /* margin-top: 100cm; */
   /* margin-bottom: 100cm; */
 }
@@ -112,6 +112,10 @@
   justify-content: center;
   /* word-spacing: 7cm; */
   padding-left: 0cm;
+  /* font-style: ; */
+}
+.cart {
+  margin-top: 1.2cm;
 }
 .logo {
   height: 1.5cm;

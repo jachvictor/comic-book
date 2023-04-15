@@ -1,0 +1,67 @@
+.spide {
+  float: left;
+  margin-left: 2cm;
+  width: 7cm;
+}
+.hold4 {
+  height: 10cm;
+  width: 15cm;
+  background-color: aqua;
+  float: right;
+  margin-right: 12cm;
+  margin-top: 0.5cm;
+  /* margin-left: -8cm; */
+}
+.he1 {
+  float: left;
+  font-size: xx-large;
+  /* margin-left: 1cm; */
+  margin-top: -0.3cm;
+}
+.pub {
+  float: left;
+  margin-top: -0.5cm;
+  margin-right: 10cm;
+}
+.star {
+  float: left;
+  margin-top: -0.2cm;
+  margin-right: 8cm;
+}
+.signin {
+  float: left;
+}
+.plus {
+  /* float: left; */
+  /* margin-top: 1cm; */
+  /* margin-right: 8cm; */
+  height: 1cm;
+  width: 1cm;
+}
+.minus {
+  /* float: left; */
+  /* margin-top: 1cm; */
+  /* margin-right: 8cm; */
+  margin-left: 0.7cm;
+  height: 1cm;
+  width: 1cm;
+}
+.num {
+  /* float: left; */
+  /* margin-top: 1cm; */
+  /* margin-right: 5cm; */
+  margin-left: 0.7cm;
+  background-color: blue;
+  height: 1cm;
+  width: 1cm;
+}
+.buttons {
+  width: 6;
+  float: left;
+  background-color: black;
+  height: 2cm;
+  display: flex;
+  align-items: center;
+  margin-left: -8.9cm;
+  margin-top: 1cm;
+}
