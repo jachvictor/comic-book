@@ -1,0 +1,142 @@
+.icon2 {
+  float: left;
+  width: 26rem;
+  height: 40rem;
+  margin-left: 3cm;
+  margin-top: 2cm;
+}
+.detail {
+  background-color: rgb(251, 244, 244);
+  float: right;
+  width: 40rem;
+  height: 40rem;
+  margin-right: 3.3cm;
+  border-color: 1px #000;
+  border: solid 1px;
+  border-radius: 0.5cm;
+  margin-top: 2cm;
+}
+.head3 {
+  float: left;
+  margin-left: 1cm;
+  margin-top: 1cm;
+}
+.break2 {
+  height: 0.01rem;
+  width: 30rem;
+  background-color: black;
+  margin-top: 2.6cm;
+  margin-left: 1cm;
+}
+.aply {
+  float: left;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color: transparent;
+  margin-top: 1.5cm;
+  /* margin-right: 4cm; */
+  margin-left: 1cm;
+  width: 9cm;
+  padding-bottom: 1rem;
+  font-size: xx-large;
+}
+.apply {
+  --background-color: yellow;
+  --background-color-dark: black;
+
+  /* background-color: yellow; */
+  width: 3cm;
+  height: 1cm;
+  box-shadow: 10px 10px black;
+  margin-right: 3cm;
+  margin-top: 1cm;
+  float: right;
+  font-size: 1.25rem;
+  background-color: yellow;
+  box-shadow: 6px 6px 0 #000;
+
+  padding: 10px 16px;
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: black;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.hold2 {
+  background-color: rgb(250, 244, 244);
+  height: 26rem;
+  width: 35rem;
+  margin-top: 3cm;
+}
+.del {
+  float: left;
+  font-size: xx-large;
+}
+.digit {
+  float: right;
+  font-size: xx-large;
+}
+.l1 {
+  margin-right: 0.4cm;
+}
+.l2 {
+  margin-top: 2.3cm;
+  margin-left: -3.4cm;
+}
+.l3 {
+  margin-right: 1cm;
+}
+.l4 {
+  margin-top: 2.3cm;
+  /* margin-left: 5cm; */
+  margin-right: -2.4cm;
+}
+.l5 {
+  margin-top: 9cm;
+  margin-left: -3.4cm;
+}
+.l6 {
+  margin-top: 9cm;
+  margin-right: -2.4cm;
+}
+
+.break3 {
+  position: absolute;
+  height: 0.01rem;
+  width: 30rem;
+  background-color: black;
+  margin-top: 11cm;
+  /* margin-bottom: -7cm; */
+  margin-left: 1cm;
+}
+.con4 {
+  padding-top: 2cm;
+  padding-bottom: 7cm;
+  height: 27cm;
+  overflow-x: hidden;
+}
+.next {
+  --background-color: yellow;
+  --background-color-dark: black;
+
+  /* background-color: yellow; */
+  width: 12cm;
+  height: 2cm;
+  box-shadow: 10px 10px black;
+  margin-right: -10cm;
+  margin-top: 1.5cm;
+  /* float: right; */
+  font-size: 1.25rem;
+  background-color: yellow;
+  box-shadow: 6px 6px 0 #000;
+
+  padding: 10px 16px;
+  font-size: xx-large;
+  font-weight: bold;
+  color: black;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}

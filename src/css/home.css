@@ -1,0 +1,89 @@
+.header {
+  color: white;
+  background-color: transparent;
+  font-size: 1.5cm;
+  /* margin-top: 1cm; */
+}
+.sec2 {
+  /* height: auto; */
+  background-color: rgb(250, 243, 243);
+}
+.des {
+  color: white;
+  font-size: 0.9cm;
+}
+.contain2 {
+  height: 20cm;
+  margin-bottom: 3cm;
+}
+.exp {
+  background-color: yellow;
+  width: 7cm;
+  height: 2cm;
+  margin-left: 40%;
+  font-size: xx-large;
+  display: flex;
+}
+.top {
+  height: auto;
+  background-color: rgb(16, 16, 16);
+  margin-top: 1cm;
+  white-space: cm;
+  width: 100%;
+}
+.bsell {
+  background-color: palegoldenrod;
+  height: 20cm;
+  margin-top: 4cm;
+}
+.head1 {
+  float: left;
+  font-size: 1.5cm;
+  margin-left: 1cm;
+}
+.hlist {
+  float: left;
+  margin-top: 3cm;
+  margin-left: -10cm;
+  font-size: 3cm;
+}
+.blist {
+  padding-inline-start: 0%;
+  font-size: 1cm;
+}
+.wrap {
+  /* position: relative; */
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: rgb(12, 12, 12);
+  height: 99%;
+  width: 100%;
+  /* margin-top: 5cm; */
+  /* background-image: url(/public/b1.png); */
+}
+.see {
+  background-color: yellow;
+  font-size: xx-large;
+  width: 5cm;
+  height: 1.5cm;
+  float: left;
+  margin-top: 17cm;
+  margin-left: -9cm;
+}
+.list {
+  height: 14cm;
+  width: 5cm;
+  margin-top: 3cm;
+  margin-left: 1cm;
+  margin-right: 1cm;
+  flex-direction: row;
+}
+.late {
+  height: 20cm;
+}
+.back {
+  width: 30cm;
+}
