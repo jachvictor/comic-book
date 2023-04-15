@@ -6,7 +6,7 @@
 .hold4 {
   height: 10cm;
   width: 15cm;
-  background-color: aqua;
+  background-color: white;
   float: right;
   margin-right: 12cm;
   margin-top: 0.5cm;
@@ -30,6 +30,27 @@
 }
 .signin {
   float: left;
+  --background-color: yellow;
+  --background-color-dark: black;
+
+  /* background-color: yellow; */
+  width: 25rem;
+  height: 1cm;
+  box-shadow: 10px 10px black;
+  margin-right: 6cm;
+  margin-top: 5cm;
+  /* float: right; */
+  font-size: 1.25rem;
+  background-color: yellow;
+  box-shadow: 6px 6px 0 #000;
+
+  padding: 10px 16px;
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: black;
+  border: none;
+  outline: none;
+  cursor: pointer;
 }
 .plus {
   /* float: left; */
@@ -58,10 +79,25 @@
 .buttons {
   width: 6;
   float: left;
-  background-color: black;
+  background-color: transparent;
   height: 2cm;
   display: flex;
   align-items: center;
   margin-left: -8.9cm;
   margin-top: 1cm;
+}
+.sub {
+  float: left;
+  margin-top: -2cm;
+  font-size: large;
+  /* margin-right: 6cm; */
+}
+.digit1 {
+  font-size: large;
+
+  position: absolute;
+  margin-left: 3cm;
+  float: right;
+  /* margin-right: 5cm; */
+  margin-top: 6.9cm;
 }
